@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38050'
     url: http://www.gutenberg.org/2009/agents/38050
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36031#Proceedings-of-the-Second-National-Conservation-Congress-at-Saint-Paul-September-5-8-1910
 gutenberg_issued: '2011-05-05'
 gutenberg_type: Text
 identifiers:
